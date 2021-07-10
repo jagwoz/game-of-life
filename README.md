@@ -22,4 +22,4 @@ This project includes an implementation of the [game of life](https://en.wikiped
 
 
 ### Sample iteration view
-![example1](./images/gol1.png)
+![example1](./images/gol1.gif)
